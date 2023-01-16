@@ -1,0 +1,29 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "name": "Rakibul",
+            "address": "Bogura",
+            "email": "rakibul@gmail.com",
+            "contact": "737543274"
+
+        },
+        {
+            "id": 2,
+            "name": "Islam",
+            "address": "Bogura",
+            "email": "rakibul@gmail.com",
+            "contact": "737543274"
+
+        },
+        {
+            "id": 3,
+            "name": "Sony",
+            "address": "Bogura",
+            "email": "rakibul@gmail.com",
+            "contact": "737543274"
+
+        }
+        
+    ]
+}
